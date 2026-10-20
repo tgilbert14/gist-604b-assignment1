@@ -4,7 +4,7 @@ GIST 604B - Open Source GIS
 Module 1: Open Source Infrastructure & Workflows
 Assignment 1: GitHub Repository Management
 
-Student: Timothy Gilbert
+Student: Tim Gilbert
 Date: 10/20/2026
 University of Arizona
 """
