@@ -17,6 +17,8 @@ def main():
 
     # Add your own message here!
     print("I am really interested in integrating fun GIS maps into shiny apps that help display cool ecological patterns and insights!")
+    # add another line from step 4
+    print('Updated in Codespaces')
 
 if __name__ == "__main__":
     main()
