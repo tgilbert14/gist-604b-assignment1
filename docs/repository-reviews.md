@@ -90,23 +90,28 @@ Keeps it simple and to the point. The readme is easy to read and understand.
 
 ## Repository 4
 
-**Repository Name:**  
-**Link:**  
+**Repository Name:**  Leaflet
+**Link:**  https://github.com/Leaflet/Leaflet
 
 ### Purpose
 What does this project do?
+It is a JavaScript library for building interative maps.
 
 ### Repository Structure
 What folders or files stand out?
+docs, src, and spec. It looks different than the other ones I've looked at. They seem to have the most recent updates.
 
 ### Documentation
 How helpful is the README?
+Yes, this is the simplest one I've seen so far. The actual summary is very short. I think this project has other supplemental data on websites that I have seen, but not in the readme.
 
 ### Activity
 Is the repository actively maintained?
+Yes, there are lots of updates and users are contantly updating it.
 
 ### Key Observation
 One thing this project does well.
+They have nice logos and links along the right side. It makes it easy to navigate and see additional information on the project.
 
 ---
 
