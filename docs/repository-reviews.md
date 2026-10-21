@@ -21,7 +21,7 @@ The readme, python folder and scripts folder stand out. The readme is well done 
 
 ### Documentation
 How helpful is the README?
-Very! It has a table of contents with links and lots of helpful topics.
+Yes! It has a table of contents with links and lots of helpful topics. I would say it could better, it would be nice if there was a more straight forward summary on top.
 
 ### Activity
 Is the repository actively maintained?
@@ -44,17 +44,19 @@ This project is a collection of geospatial tools and sources that help with geoa
 
 ### Repository Structure
 What folders or files stand out?
-The .md file (Geospatial-Start-ups-And-Companies.md) because this repo is sparce. It is pretty much a place that links cool tools so it doesn't have any actual projects.
+The .md file (Geospatial-Start-ups-And-Companies.md) because this repo doesn't have much in it. It is pretty much a place that links cool tools so it doesn't have many actual project files.
 
 ### Documentation
 How helpful is the README?
-Yes.
+Pretty helpful, it gets to the point and tells you exatcly what it is right from the start.
 
 ### Activity
 Is the repository actively maintained?
+Yes, but not as much as the other one. It's last commit was in July and it has 89 contributers.
 
 ### Key Observation
 One thing this project does well.
+Oranizes each type of cool project into a category that makes sense and is easy to find.
 
 ---
 
