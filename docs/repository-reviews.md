@@ -35,17 +35,20 @@ It presents its abilities and features well.
 
 ## Repository 2
 
-**Repository Name:**  
-**Link:**  
+**Repository Name:**  awesome-gis
+**Link:**  https://github.com/sshuair/awesome-gis
 
 ### Purpose
 What does this project do?
+This project is a collection of geospatial tools and sources that help with geoanalysis, developer tools for mapping, map sites, and more.
 
 ### Repository Structure
 What folders or files stand out?
+The .md file (Geospatial-Start-ups-And-Companies.md) because this repo is sparce. It is pretty much a place that links cool tools so it doesn't have any actual projects.
 
 ### Documentation
 How helpful is the README?
+Yes.
 
 ### Activity
 Is the repository actively maintained?
