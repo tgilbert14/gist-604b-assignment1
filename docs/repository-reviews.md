@@ -62,23 +62,29 @@ Oranizes each type of cool project into a category that makes sense and is easy 
 
 ## Repository 3
 
-**Repository Name:**  
-**Link:**  
+**Repository Name:**  GRASS (Geographic Resources Analysis Support System)
+**Link:**  https://github.com/osgeo/grass
 
 ### Purpose
 What does this project do?
+It is a computational engine for geospatial processing. It specializes in "terrain and ecosystem modeling, hydrology, data management, and imagery processing."
+*cited from github readme*
 
 ### Repository Structure
 What folders or files stand out?
+db, python, docker, and install files. It tells me there is probably a database doing some work and it can be installed in some form to use!
 
 ### Documentation
 How helpful is the README?
+Yes, it has the basics and has good categorical seperation. I like how it's simple and to the point.
 
 ### Activity
 Is the repository actively maintained?
+I can see there are some commits as recent as yesterday, so yes! It also has a good set of issues that are activly being worked on.
 
 ### Key Observation
 One thing this project does well.
+Keeps it simple and to the point. The readme is easy to read and understand.
 
 ---
 
