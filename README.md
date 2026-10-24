@@ -26,5 +26,5 @@ This repository demonstrates GitHub skills including:
 - `scripts/` - Python scripts
 
 ## Usage
-To run the hello script:
+To run the hello script:  
 python scripts/hello.py
